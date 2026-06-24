@@ -32,7 +32,7 @@ Each Markdown file represents a single dashboard and provides a self-contained b
 
 ---
 
-## The TLDR of Each Markdown File
+## The TLDR of Each Dashboard
 
 ### 1. Revenue Forecast & Rep Performance Hub
 
